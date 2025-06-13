@@ -30,8 +30,8 @@ _Full Stack & AI Developer in the making | Creator of [CodeHack](https://codeh4c
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=karamveer2648&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaramveerSinghOberoi&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramveerSinghOberoi&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=karamveer2648&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamveer2648&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -39,7 +39,7 @@ _Full Stack & AI Developer in the making | Creator of [CodeHack](https://codeh4c
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karamveersinghoberoi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karamveer2648)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![GitHub](https://img.shields.io/badge/-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/karamveer2648)
