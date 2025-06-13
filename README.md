@@ -1,39 +1,60 @@
-# 👋 Hi there, I'm Karamveer Singh Oberoi
+# 🌟 Karamveer Singh Oberoi | Digital Craftsman
 
-🚀 Aspiring Full Stack & AI Developer | Founder of [CodeHack](https://codeh4ck.tech)  
-📍 From Maharashtra, India  
-🎓 Student at PRPCEM | CSE Dept  
-🌐 Portfolio: [karamveersinghoberoi.me](https://karamveersinghoberoi.me)
+<div align="center">
+  
+### Transforming ideas into digital reality
+_Full Stack & AI Developer in the making | Creator of [CodeHack](https://codeh4ck.tech)_
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-karamveersinghoberoi.me-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://karamveersinghoberoi.me)
+[![Location](https://img.shields.io/badge/Based_In-Maharashtra,_India-orange?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maharashtra)
+[![Education](https://img.shields.io/badge/Studying-Computer_Science-blue?style=for-the-badge&logo=book&logoColor=white)](https://prpcem.edu.in)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+</div>
 
----
+## 💻 Languages & Tools
 
-## 📊 GitHub Stats
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Karamveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaramveerSinghOberoi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaramveerSinghOberoi&layout=compact&theme=radical)
+</div>
 
----
+## 📈 GitHub Journey
 
-## 🔥 Streak Stats
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=karamveer2648&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=karamveer2648&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=KaramveerSinghOberoi&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramveerSinghOberoi&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
----
+</div>
 
-## 📫 Connect with me
+## 🌐 Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/karamveersinghoberoi)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karamveersinghoberoi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/karamveer2648)
 
----
+</div>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🚀 Current Focus
+
+- Building innovative web applications with Django
+- Exploring AI/ML capabilities for real-world problems
+- Contributing to open-source projects
+- Expanding my knowledge in cloud technologies
+
+<div align="center">
+  
+> "The best way to predict the future is to invent it." – Alan Kay
+
+</div>
