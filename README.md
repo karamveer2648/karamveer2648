@@ -1,17 +1,22 @@
-# 🔮 Karamveer Singh Oberoi | Digital Architect_
+# ⚡ KARAMVEER SINGH OBEROI ⚡
+## ⟨𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙲𝚘𝚍𝚎 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝⟩
 
 <div align="center">
   
-### > // HACKING REALITY INTO DIGITAL EXISTENCE
-_Neural Network Engineer | Architect of [CodeHack](https://codeh4ck.tech)_
+```
+█▄▀ ▄▀█ █▀█ ▄▀█ █▀▄▀█ █░█ █▀▀ █▀▀ █▀█
+█░█ █▀█ █▀▄ █▀█ █░▀░█ ▀▄▀ ██▄ ██▄ █▀▄
+```
 
-[![Portfolio](https://img.shields.io/badge/NetPort-karamveersinghoberoi.me-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://karamveersinghoberoi.me)
-[![Location](https://img.shields.io/badge/Grid_Node-Maharashtra,_India-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maharashtra)
-[![Education](https://img.shields.io/badge/Neural_Training-Computer_Science-7000FF?style=for-the-badge&logo=book&logoColor=white)](https://prpcem.edu.in)
+_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛𝚒𝚌 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 [𝚞𝚗𝚍𝚎𝚏𝚒𝚗𝚎𝚍]」_
+
+[![Portfolio](https://img.shields.io/badge/⚘_DIMENSIONAL_GATEWAY_⚘-karamveersinghoberoi.me-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://karamveersinghoberoi.me)
+[![Location](https://img.shields.io/badge/⌖_SPACETIME_COORDINATES_⌖-Maharashtra,_India-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maharashtra)
+[![CodeHack](https://img.shields.io/badge/⌬_DIGITAL_FORTRESS_⌬-CodeH4ck-7000FF?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://codeh4ck.tech)
 
 </div>
 
-## 💾 Tech Matrix
+## ⟪ 𝚃𝙴𝙲𝙷𝙽𝙾𝙼𝙰𝙽𝙲𝚈 𝚂𝙿𝙴𝙻𝙻𝙱𝙾𝙾𝙺 ⟫
 
 <div align="center">
   
@@ -24,7 +29,7 @@ _Neural Network Engineer | Architect of [CodeHack](https://codeh4ck.tech)_
 
 </div>
 
-## ⚡ Digital Footprint
+## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
 
 <div align="center">
   
@@ -35,26 +40,32 @@ _Neural Network Engineer | Architect of [CodeHack](https://codeh4ck.tech)_
 
 </div>
 
-## 📡 Network Access Points
+## ⟪ 𝙸𝙽𝚃𝙴𝚁𝙳𝙸𝙼𝙴𝙽𝚂𝙸𝙾𝙽𝙰𝙻 𝙿𝙾𝚁𝚃𝙰𝙻𝚂 ⟫
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/karamveer2648)
-[![Twitter](https://img.shields.io/badge/-Twitter-ff00ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/-Transmit_Data-7000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![GitHub](https://img.shields.io/badge/-Join_Network-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/karamveer2648)
+[![LinkedIn](https://img.shields.io/badge/-⌬_Professional_Nexus_⌬-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/karamveer2648)
+[![Twitter](https://img.shields.io/badge/-⌬_Thought_Stream_⌬-ff00ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/-⌬_Neural_Transmitter_⌬-7000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-⌬_Code_Dimension_⌬-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/karamveer2648)
 
 </div>
 
-## 🔋 System Priorities
+## ⟪ 𝙲𝙾𝙽𝚂𝙲𝙸𝙾𝚄𝚂𝙽𝙴𝚂𝚂 𝚂𝚄𝙱𝚁𝙾𝚄𝚃𝙸𝙽𝙴𝚂 ⟫
 
-- Architecting neural pathways through web frameworks
-- Reprogramming reality with advanced AI/ML algorithms
-- Infiltrating open-source networks with code contributions
-- Expanding consciousness through cloud technology integration
+```
+function executeLifePriorities() {
+  while(consciousness.active) {
+    → Weave digital universes with code as the fundamental particle
+    → Transmute AI algorithms into sentient digital entities
+    → Inscribe contributions into the eternal blockchain of open-source
+    → Expand the collective consciousness through quantum computing
+  }
+}
+```
 
 <div align="center">
   
-> "In a world of data, the real rebels are the ones who create." [_system.out_]
+> "𝚃𝚑𝚎 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚎 𝚒𝚜 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝚗𝚘𝚝 𝚊𝚝𝚘𝚖𝚜. 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚖𝚒𝚗𝚎 𝚒𝚗 𝚌𝚘𝚍𝚎." —𝙺𝚂𝙾
 
 </div>
