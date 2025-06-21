@@ -8,11 +8,12 @@
 █░█ █▀█ █▀▄ █▀█ █░▀░█ ▀▄▀ ██▄ ██▄ █▀▄
 ```
 
-_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛𝚒𝚌 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 [𝚞𝚗𝚍𝚎𝚏𝚒𝚗𝚎𝚍]」_
+_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛𝚊𝚝𝚎 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 [𝚞𝚗𝚍𝚎𝚏𝚒𝚗𝚎𝚍]」_
 
-[![Portfolio](https://img.shields.io/badge/⚘_DIMENSIONAL_GATEWAY_⚘-karamveersinghoberoi.me-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://karamveersinghoberoi.me)
-[![Location](https://img.shields.io/badge/⌖_SPACETIME_COORDINATES_⌖-Maharashtra,_India-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maharashtra)
-[![CodeHack](https://img.shields.io/badge/⌬_DIGITAL_FORTRESS_⌬-CodeH4ck-7000FF?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://codeh4ck.tech)
+[![Portfolio](https://img.shields.io/badge/⚘_DIMENSIONAL_GATEWAY_⚘-karamveeroberoi.in-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](http://www.karamveeroberoi.in)
+[![Location](https://img.shields.io/badge/⌖_SPACETIME_COORDINATES_⌖-Washim,_Maharashtra-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Washim)
+[![Education](https://img.shields.io/badge/🎓_KNOWLEDGE_NEXUS_🎓-P.R._Pote_Patil_CoE-7000FF?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.prpcem.org)
+[![CodeHack](https://img.shields.io/badge/⌬_DIGITAL_FORTRESS_⌬-CodeH4ck-ff00ff?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://codeh4ck.tech)
 
 </div>
 
@@ -21,11 +22,14 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 <div align="center">
   
 ![Python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-ff00ff?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-7000FF?style=flat-square&logo=javascript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-00FFFF?style=flat-square&logo=tailwindcss&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-ff00ff?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-7000FF?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ff00ff?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-00FFFF?style=flat-square&logo=django&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-7000FF?style=flat-square&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-ff00ff?style=flat-square&logo=jupyter&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data_Science-00FFFF?style=flat-square&logo=anaconda&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-7000FF?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-ff00ff?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -40,26 +44,83 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 
 </div>
 
-## ⟪ 𝙸𝙽𝚃𝙴𝚁𝙳𝙸𝙼𝙴𝙽𝚂𝙸𝙾𝙽𝙰𝙻 𝙿𝙾𝚁𝚃𝙰𝙻𝚂 ⟫
+## ⟪ 𝙸𝙽𝚃𝙴𝚁𝙳𝙸𝙼𝙴𝙽𝚃𝚂𝙸𝙾𝙽𝙰𝙻 𝙿𝙾𝚁𝚃𝙰𝙻𝚂 ⟫
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-⌬_Professional_Nexus_⌬-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/karamveer2648)
-[![Twitter](https://img.shields.io/badge/-⌬_Thought_Stream_⌬-ff00ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/-⌬_Neural_Transmitter_⌬-7000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-⌬_Professional_Nexus_⌬-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/karamveersinghoberoi2648)
+[![ORCID](https://img.shields.io/badge/-⌬_Research_Identity_⌬-ff00ff?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2614-3884)
+[![Email](https://img.shields.io/badge/-⌬_Neural_Transmitter_⌬-7000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karamveersinghoberoi@gmail.com)
 [![GitHub](https://img.shields.io/badge/-⌬_Code_Dimension_⌬-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/karamveer2648)
 
 </div>
 
+## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
+## ⟪ 𝙳𝙸𝙶𝙸𝚃𝙰𝙻 𝙰𝚁𝚃𝙸𝙵𝙰𝙲𝚃𝚂 & 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂 ⟫
+
+<div align="center">
+
+### 🏆 **GitHub Pull Shark Achievement** | 🌟 **438+ Contributions This Year**
+
+[![SuperstoreDataAnalysis](https://img.shields.io/badge/📊_Superstore_Data_Analysis-Jupyter-ff00ff?style=for-the-badge&logo=jupyter)](https://github.com/karamveer2648/SuperstoreDataAnalysis)
+[![WeatherDashboard](https://img.shields.io/badge/🌤️_Weather_Dashboard-Python-00FFFF?style=for-the-badge&logo=python)](https://github.com/karamveer2648/WeatherDashboard)
+[![Doctor Visit Analysis](https://img.shields.io/badge/🏥_Medical_Analytics-Jupyter-7000FF?style=for-the-badge&logo=jupyter)](https://github.com/karamveer2648/Doctor_Visit_Analysis)
+[![DSA Java](https://img.shields.io/badge/🧮_DSA_Mastery-Java-ff00ff?style=for-the-badge&logo=openjdk)](https://github.com/karamveer2648/JAVA-DSA-FROM-BASICS)
+[![CropAnalysis](https://img.shields.io/badge/🌾_Agricultural_AI-Python-00FFFF?style=for-the-badge&logo=python)](https://github.com/karamveer2648/CropDistrcitWise)
+[![Jarvis AI](https://img.shields.io/badge/🤖_Jarvis_Gemini-AI_Assistant-7000FF?style=for-the-badge&logo=google-gemini)](https://github.com/karamveer2648/jarvis-gemini)
+
+</div>
+
+## ⟪ 𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙲𝙾𝙳𝙴 𝙼𝙰𝚃𝚁𝙸𝚇 ⟫
+
+```typescript
+interface DigitalAlchemist {
+  expertise: string[];
+  currentFocus: string[];
+  achievements: Record<string, number>;
+  
+  transmute(): Promise<Innovation> {
+    return this.blend(creativity, technology, passion);
+  }
+}
+
+const karamveer: DigitalAlchemist = {
+  expertise: [
+    "🐍 Python Data Science & AI",
+    "☕ Java DSA & Backend Systems", 
+    "🌐 Full-Stack Web Development",
+    "📊 Data Analytics & Visualization",
+    "🤖 Machine Learning & AI Integration"
+  ],
+  currentFocus: [
+    "Agricultural Technology Solutions",
+    "Medical Data Analytics", 
+    "Weather Intelligence Systems",
+    "Advanced DSA Problem Solving"
+  ],
+  achievements: {
+    githubContributions: 438,
+    repositoriesCreated: 20,
+    pullSharkBadge: 1,
+    dataProjectsCompleted: 5
+  }
+};
+```
+
+</div>
+
+## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
 ## ⟪ 𝙲𝙾𝙽𝚂𝙲𝙸𝙾𝚄𝚂𝙽𝙴𝚂𝚂 𝚂𝚄𝙱𝚁𝙾𝚄𝚃𝙸𝙽𝙴𝚂 ⟫
 
-```
+```typescript
 function executeLifePriorities() {
   while(consciousness.active) {
-    → Weave digital universes with code as the fundamental particle
-    → Transmute AI algorithms into sentient digital entities
-    → Inscribe contributions into the eternal blockchain of open-source
-    → Expand the collective consciousness through quantum computing
+    → Engineer data-driven solutions for agricultural intelligence
+    → Develop AI-powered medical analytics systems  
+    → Master advanced DSA patterns for optimization excellence
+    → Build weather intelligence dashboards for climate insights
+    → Contribute to open-source ecosystem expansion
+    → Bridge technology with real-world problem solving
   }
 }
 ```
