@@ -1,5 +1,11 @@
 # ⚡ KARAMVEER SINGH OBEROI ⚡
-## ⟨𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙲𝚘𝚍𝚎 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝⟩
+## ⟨𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙲𝚘[![GitHub](https://img.shields.io/badge/-⌬_Code_Dimension_⌬-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/karamveer2648)
+
+</div>
+
+---
+
+## ⟪ 𝙳𝙸𝙶𝙸𝚃𝙰𝙻 𝙰𝚁𝚃𝙸𝙵𝙰𝙲𝚃𝚂 & 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽�� ⟫𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝⟩
 
 <div align="center">
   
@@ -8,7 +14,19 @@
 █░█ █▀█ █▀▄ █▀█ █░▀░█ ▀▄▀ ██▄ ██▄ █▀▄
 ```
 
-_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛𝚊𝚝𝚎 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 [𝚞𝚗𝚍𝚎𝚏𝚒𝚗𝚎𝚍]」_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Reality+Engineer+%7C+Code+Alchemist;Data+Science+%26+AI+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+
+_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛𝚊𝚝 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟸𝟸」_ER SINGH OBEROI ⚡
+## ⟨𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙲𝚚𝚎 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝⟩
+
+<div align="center">
+  
+```
+█▄▀ ▄▀█ █▀█ ▄▀█ █▀▄▀█ █░█ █▀▀ █▀▀ █▀█
+█░█ █▀█ █▀▄ █▀█ █░▀░█ ▀▄▀ ██▄ ██▄ █▀▄
+```
+
+_「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚊𝚋𝚛�� 𝚘𝚏 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚜𝚒𝚗𝚌𝚎 ����」_
 
 [![Portfolio](https://img.shields.io/badge/⚘_DIMENSIONAL_GATEWAY_⚘-karamveeroberoi.in-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](http://www.karamveeroberoi.in)
 [![Location](https://img.shields.io/badge/⌖_SPACETIME_COORDINATES_⌖-Washim,_Maharashtra-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Washim)
@@ -16,6 +34,8 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 [![CodeHack](https://img.shields.io/badge/⌬_DIGITAL_FORTRESS_⌬-CodeH4ck-ff00ff?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://codeh4ck.tech)
 
 </div>
+
+---
 
 ## ⟪ 𝚃𝙴𝙲𝙷𝙽𝙾𝙼𝙰𝙽𝙲𝚈 𝚂𝙿𝙴𝙻𝙻𝙱𝙾𝙾𝙺 ⟫
 
@@ -33,6 +53,8 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 
 </div>
 
+---
+
 ## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
 
 <div align="center">
@@ -43,6 +65,8 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamveer2648&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170" />
 
 </div>
+
+---
 
 ## ⟪ 𝙸𝙽𝚃𝙴𝚁𝙳𝙸𝙼𝙴𝙽𝚃𝚂𝙸𝙾𝙽𝙰𝙻 𝙿𝙾𝚁𝚃𝙰𝙻𝚂 ⟫
 
@@ -55,23 +79,31 @@ _「𝙱𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚏�
 
 </div>
 
-## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
-## ⟪ 𝙳𝙸𝙶𝙸𝚃𝙰𝙻 𝙰𝚁𝚃𝙸𝙵𝙰𝙲𝚃𝚂 & 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂 ⟫
+## ⟪ ��𝙸𝙶𝙸𝚃𝙰𝙻 𝙰𝚁𝚃𝙸𝙵𝙰𝙲𝚃𝚂 & 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂 ⟫
 
 <div align="center">
 
 ### 🏆 **GitHub Pull Shark Achievement** | 🌟 **438+ Contributions This Year**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karamveer2648/karamveer2648/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 [![SuperstoreDataAnalysis](https://img.shields.io/badge/📊_Superstore_Data_Analysis-Jupyter-ff00ff?style=for-the-badge&logo=jupyter)](https://github.com/karamveer2648/SuperstoreDataAnalysis)
 [![WeatherDashboard](https://img.shields.io/badge/🌤️_Weather_Dashboard-Python-00FFFF?style=for-the-badge&logo=python)](https://github.com/karamveer2648/WeatherDashboard)
 [![Doctor Visit Analysis](https://img.shields.io/badge/🏥_Medical_Analytics-Jupyter-7000FF?style=for-the-badge&logo=jupyter)](https://github.com/karamveer2648/Doctor_Visit_Analysis)
+
 [![DSA Java](https://img.shields.io/badge/🧮_DSA_Mastery-Java-ff00ff?style=for-the-badge&logo=openjdk)](https://github.com/karamveer2648/JAVA-DSA-FROM-BASICS)
 [![CropAnalysis](https://img.shields.io/badge/🌾_Agricultural_AI-Python-00FFFF?style=for-the-badge&logo=python)](https://github.com/karamveer2648/CropDistrcitWise)
 [![Jarvis AI](https://img.shields.io/badge/🤖_Jarvis_Gemini-AI_Assistant-7000FF?style=for-the-badge&logo=google-gemini)](https://github.com/karamveer2648/jarvis-gemini)
 
 </div>
 
+---
+
 ## ⟪ 𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙲𝙾𝙳𝙴 𝙼𝙰𝚃𝚁𝙸𝚇 ⟫
+
+<div align="center">
 
 ```typescript
 interface DigitalAlchemist {
@@ -109,7 +141,21 @@ const karamveer: DigitalAlchemist = {
 
 </div>
 
+---
+
 ## ⟪ 𝙲𝙾𝚂𝙼𝙸𝙲 𝙸𝙼𝙿𝚁𝙸𝙽𝚃 ⟫
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=karamveer2648&theme=synthwave&hide_border=true&border_radius=10&background=0D1117)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=karamveer2648&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=ff00ff&title_color=00FFFF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamveer2648&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170" />
+
+</div>
+
+---
+
 ## ⟪ 𝙲𝙾𝙽𝚂𝙲𝙸𝙾𝚄𝚂𝙽𝙴𝚂𝚂 𝚂𝚄𝙱𝚁𝙾𝚄𝚃𝙸𝙽𝙴𝚂 ⟫
 
 ```typescript
@@ -127,6 +173,20 @@ function executeLifePriorities() {
 
 <div align="center">
   
-> "𝚃𝚑𝚎 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚎 𝚒𝚜 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝚗𝚘𝚝 𝚊𝚝𝚘𝚖𝚜. 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚖𝚒𝚗𝚎 𝚒𝚗 𝚌𝚘𝚍𝚎." —𝙺𝚂𝙾
+> "𝚃𝚑𝚎 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚎 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝚗𝚘𝚝 𝚊𝚝𝚘𝚖𝚜. 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚖𝚒𝚗𝚎 𝚒𝚗 𝚌𝚘𝚍𝚎." —𝙺𝚂𝙾
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **Thank you for visiting my digital dimension!** 💫
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Keep%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" />
+</p>
+
+**⭐ Star my repositories if you find them interesting!**
 
 </div>
